@@ -14,4 +14,8 @@
 **Systematic Investment Plan (SIP)**
 > A Systematic Investment Plan (SIP) is a disciplined way of investing a fixed amount in mutual funds at regular intervals, typically monthly. SIP helps in averaging the cost of investment and harnesses the power of compounding. Ideal for long-term financial goals, SIPs allow investors to enter the market gradually, making it easier to handle market volatility. Over time, SIPs can help build substantial wealth, even with modest contributions, making it a popular choice for investors of all backgrounds.
 
-
+**disclaimer**
+Code License and Usage Rights:
+The code I provided is free to use and modify (MIT License equivalent)
+You can use it commercially without restrictions
+No attribution is required, though appreciated
